@@ -1,0 +1,36 @@
+body{
+    font-family: cursive;
+    color: black;
+    font-size: 24px;
+    background-color: blanchedalmond;
+}
+
+h3, h1{
+    color: blanchedalmond;
+    background-color: chocolate;
+}
+
+ul {
+    font-size: 40px;
+    color: chocolate;
+    background-color: bisque;
+}
+
+a{
+    font-size: 50px;
+    font-weight: bold;
+    color: chocolate;
+}
+
+.Ingredients > li,
+ol li{
+    color: black;
+    font-size: 24px;
+}
+
+
+img{
+    height: auto;
+    width: 500px;
+}
+
